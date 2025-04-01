@@ -262,7 +262,7 @@ def process_uploaded_file(uploaded_file):
 def main():
     """Main function for the Streamlit app."""
     st.set_page_config(
-        page_title="AI-Powered eDiscovery & Legal Analytics",
+        page_title="DOCU-DETECT",
         page_icon="⚖️",
         layout="wide"
     )
