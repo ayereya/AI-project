@@ -1,0 +1,14 @@
+streamlit==1.23.1
+pymupdf==1.22.3
+spacy==3.5.3
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+langchain==0.0.208
+transformers==4.30.2
+torch==2.0.1
+pandas==2.0.2
+numpy==1.24.3
+accelerate==0.20.3
+bitsandbytes==0.41.1
+einops==0.6.1
+safetensors==0.3.1
